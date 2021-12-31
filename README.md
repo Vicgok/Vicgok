@@ -2,7 +2,7 @@
 
 <h1 align='center' >Hello there!! <img src="assets/wave.gif" width="30px"><br>I'm Vigneshwaraa</h1>
 
-[![Profile View](https://komarev.com/ghpvc/?username=Vicgok)]()
+[![Profile View](https://komarev.com/ghpvc/?username=Vicgok)](https://github.com/Vicgok)
 
 ### I'm an aspiring frontend web developer with UI/UX design skills and a not so professional gamer.
 
