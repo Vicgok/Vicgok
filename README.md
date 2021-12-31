@@ -17,20 +17,20 @@
 
 ## My Tech Stack 👨‍💻
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() &nbsp;
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)]() &nbsp;
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)]() &nbsp;
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()<br>
-[![bootstra[]](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() &nbsp;
-[![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]() &nbsp;
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/topics/javascript) &nbsp;
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) &nbsp;
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/python) &nbsp;
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/django)<br>
+[![bootstra[]](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) &nbsp;
+[![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) &nbsp;
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/topics/java)
 
 <br>
 
 ## My Workstation 💻
 
-[![gtx1660ti](https://img.shields.io/badge/NVIDIA-GTX_1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()&nbsp;
-[![intel](https://img.shields.io/badge/Intel-Core_i5_9th_gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
+[![gtx1660ti](https://img.shields.io/badge/NVIDIA-GTX_1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-in/geforce/graphics-cards/gtx-1660-ti/)&nbsp;
+[![intel](https://img.shields.io/badge/Intel-Core_i5_9th_gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i59300h-processor-8m-cache-up-to-4-10-ghz.html)
 
 <br>
 
@@ -70,7 +70,7 @@
 
 ## My coding friends 😜
 
-<a href='#!'>
+<a href='https://www.youtube.com/' target='_blank'>
 <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
 </a>&nbsp;
 <a href='https://open.spotify.com/playlist/5lIkk95KcF3YrfE9LiHcTQ?si=d39b519e2bca4098' target='_blank'>
