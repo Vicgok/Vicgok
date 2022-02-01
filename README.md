@@ -47,23 +47,23 @@
 
 ## Recent Work 👾
 
+<a href="https://github.com/Vicgok/testimonial-grid">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=testimonial-grid&theme=apprentice'/>
+</a>&nbsp;
+<a href="https://github.com/Vicgok/insure-landing-page">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=insure-landing-page&theme=apprentice'/>
+</a>&nbsp;
+<a href="https://github.com/Vicgok/SPLITTER-tip-calculator-react-app">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=SPLITTER-tip-calculator-react-app&theme=apprentice'/>
+</a>&nbsp;
+<a href="https://github.com/Vicgok/interactive-card-component">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=interactive-card-component&theme=apprentice'/>
+</a>&nbsp;
 <a href="https://github.com/Vicgok/Blogr-landing-page">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Blogr-landing-page&theme=apprentice'/>
 </a>&nbsp;
-<a href="https://github.com/Vicgok/Sunnyside_agency_landing_page">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Sunnyside_agency_landing_page&theme=apprentice'/>
-</a>&nbsp;
 <a href="https://github.com/Vicgok/To-Do-App">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=To-Do-App&theme=apprentice'/>
-</a>&nbsp;
-<a href="https://github.com/Vicgok/Base-Apparel">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Base-Apparel&theme=apprentice'/>
-</a>&nbsp;
-<a href="https://github.com/Vicgok/Intro-component-signup">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Intro-component-signup&theme=apprentice'/>
-</a>&nbsp;
-<a href="https://github.com/Vicgok/Four-card-feature-UI">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Four-card-feature-UI&theme=apprentice'/>
 </a>
 
 <br>
