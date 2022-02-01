@@ -55,7 +55,7 @@
 </a>&nbsp;
 <a href="https://github.com/Vicgok/SPLITTER-tip-calculator-react-app">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=SPLITTER-tip-calculator-react-app&theme=apprentice'/>
-</a>&nbsp;
+</a>
 <a href="https://github.com/Vicgok/interactive-card-component">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=interactive-card-component&theme=apprentice'/>
 </a>&nbsp;
