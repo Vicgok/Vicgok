@@ -50,18 +50,23 @@
 <a href="https://github.com/Vicgok/testimonial-grid">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=testimonial-grid&theme=apprentice'/>
 </a>&nbsp;
+
 <a href="https://github.com/Vicgok/insure-landing-page">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=insure-landing-page&theme=apprentice'/>
 </a>&nbsp;
+
 <a href="https://github.com/Vicgok/SPLITTER-tip-calculator-react-app">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=SPLITTER-tip-calculator-react-app&theme=apprentice'/>
-</a>
+</a>&nbsp;
+
 <a href="https://github.com/Vicgok/interactive-card-component">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=interactive-card-component&theme=apprentice'/>
 </a>&nbsp;
+
 <a href="https://github.com/Vicgok/Blogr-landing-page">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Blogr-landing-page&theme=apprentice'/>
 </a>&nbsp;
+
 <a href="https://github.com/Vicgok/To-Do-App">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=To-Do-App&theme=apprentice'/>
 </a>
