@@ -1,6 +1,6 @@
 # [![Vigneshwaraa header](assets/ProfileBanner.png)]()
 
-<h1 align='center' >Hello there!! <img src="assets/wave.gif" width="30px"><br>I'm Vigneshwaraa</h1>
+<h1>Hello there!! <img src="assets/wave.gif" width="30px"><br>I'm Vigneshwaraa</h1>
 
 [![Profile View](https://komarev.com/ghpvc/?username=Vicgok)](https://github.com/Vicgok)
 
