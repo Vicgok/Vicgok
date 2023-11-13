@@ -4,26 +4,26 @@
 
 [![Profile View](https://komarev.com/ghpvc/?username=Vicgok)](https://github.com/Vicgok)
 
-### I'm an aspiring frontend web developer with UI/UX design skills and a not so professional gamer.
+#### I'm a seasoned web developer with a focus on creating robust and scalable applications. With a solid three-year track record in enterprise environments, my expertise lies in:
 
-<br>
+- **Frontend Development:** ReactJS for crafting dynamic and responsive user interfaces.
+- **Backend Development:** Express.js and Node.js for building efficient server-side logic.
+- **Database:** MongoDB for effective data management.
 
-## I'm currently 🌱
+In addition to my proficiency in the MERN stack, I excel in Python Flask API development, expanding my toolkit for versatile solutions.
 
-- Improving my React skills.
-- Practing my front-end skills by building real life projects.
-
-<br>
+🎨 As a UI designer in Figma, I bring a creative touch to my projects, ensuring both functionality and aesthetics align seamlessly.
 
 ## My Tech Stack 👨‍💻
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/topics/javascript) &nbsp;
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) &nbsp;
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/python) &nbsp;
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/django)<br>
-[![bootstra[]](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) &nbsp;
-[![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) &nbsp;
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/topics/java)
+[![ReactJS](https://img.shields.io/badge/ReactJS-Latest-blue)](https://reactjs.org/)&nbsp;
+[![Express.js](https://img.shields.io/badge/Express.js-Latest-green)](https://expressjs.com/)&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-Latest-green)](https://nodejs.org/)&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)](https://www.mongodb.com/)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)&nbsp;
+[![SCSS](https://img.shields.io/badge/SCSS-Latest-pink)](https://sass-lang.com/)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-Latest-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blue)](https://www.typescriptlang.org/)
 
 <br>
 
@@ -47,8 +47,9 @@
 
 ## Recent Work 👾
 
-<a href="https://github.com/Vicgok/SPLITTER-tip-calculator-react-app">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=SPLITTER-tip-calculator-react-app&theme=apprentice'/>
+<a href="https://github.com/Vicgok/Admin_dashboard">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Admin_dashboard
+&theme=apprentice'/>
 </a>&nbsp;
 
 <a href="https://github.com/Vicgok/insure-landing-page">
