@@ -47,10 +47,6 @@ In addition to my proficiency in the MERN stack, I excel in Python Flask API dev
 
 ## Recent Work 👾
 
-<a href="https://github.com/Vicgok/Return_Order_Management_Portal">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Return_Order_Management_Portal&theme=apprentice'/>
-</a>&nbsp;
-
 <a href="https://github.com/Vicgok/Admin_dashboard">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=Vicgok&repo=Admin_dashboard
 &theme=apprentice'/>
