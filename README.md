@@ -4,7 +4,7 @@
 
 [![Profile View](https://komarev.com/ghpvc/?username=Vicgok)](https://github.com/Vicgok)
 
-#### I'm a seasoned web developer with a focus on creating robust and scalable applications. With a solid three-year track record in enterprise environments, my expertise lies in:
+I'm a seasoned web developer with a focus on creating robust and scalable applications. With a solid three-year track record in enterprise environments, my expertise lies in:
 
 - **Frontend Development:** ReactJS for crafting dynamic and responsive user interfaces.
 - **Backend Development:** Express.js and Node.js for building efficient server-side logic.
