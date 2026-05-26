@@ -10,12 +10,13 @@ Full-Stack AI Engineer with 6+ years of experience building scalable enterprise-
 
 ---
 
-![Full Stack Engineer](https://img.shields.io/badge/Full--Stack%20Engineer-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white) ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&logo=google-chrome&logoColor=white&style=for-the-badge&up_color=00C853&up_message=online&url=https%3A%2F%2Fwww.vigneshwaraak.co.in%2F)
+## Who am I? 🌐
 
-![Built With React](https://img.shields.io/badge/Built%20With-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![SSR](https://img.shields.io/badge/SSR-TanStack%20Start-black?style=for-the-badge&logo=reactrouter&logoColor=white)
+<a href='https://www.vigneshwaraak.co.in/' target='_blank'>
+<img src='https://img.shields.io/badge/Portfolio-Catch%20Me-000000?style=for-the-badge&logo=vercel&logoColor=white'>
+</a>
 
 ---
-
 ## My Tech Stack 👨‍💻
 
 **Languages**
